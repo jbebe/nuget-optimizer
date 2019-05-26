@@ -1,0 +1,10 @@
+{
+    "source": "https://www.nuget.org/api/v2/",
+    "target": ".NETFramework,Version=v4.6.1",
+    "packages": [
+        {
+            "name": "MUtils.Serializing.NewtonSoft",
+            "version": "1.0.0.1"
+        }
+    ]
+}
